@@ -1,4 +1,4 @@
-                                                                                AGE CALCULATOR IN C++
+                                   AGE CALCULATOR IN C++
 ★ The program declares variables to store the day, month, and year components of the DOB and current date.
 
 ★ The user is prompted to enter their DOB and current date in the specified format.
